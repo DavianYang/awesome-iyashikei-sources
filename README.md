@@ -13,5 +13,8 @@ iyashi(癒し) means "healing", kei(系) means "system" and together (癒し系)
 
 | Name | Picture |
 | --- | --- |
-| Laid-Back Camp | ![Laid-Back Camp](assets/yuru_camp.jpg) |
+| Laid-Back Camp | 
+<p align="center">
+  <img src="assets/yuru_camp.jpg" width="350" title="hover text">
+</p> |
 | Laid-Back Camp 2nd Season |  |
