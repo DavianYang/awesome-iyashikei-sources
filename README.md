@@ -9,3 +9,9 @@ iyashi(癒し) means "healing", kei(系) means "system" and together (癒し系)
 * Since there are many otaku developers who exhausted from coding works and other workloads, iyashikei is basically mental therapy for them.
 * Unlike other genres,iyashikei usually tend to overlook from most audiences,this repo act as a collection that doesn't need to search for.
 
+### Anime
+
+| Name | Picture |
+| --- | --- |
+| Laid-Back Camp | ![Laid-Back Camp](assets/yuru_camp.jpg) |
+| Laid-Back Camp 2nd Season |  |
