@@ -24,3 +24,9 @@ iyashi(癒し) means "healing", kei(系) means "system" and together (癒し系)
 | --- | --- |
 | **Laid-Back Camp** | <p align="center"><img src="assets/manga/yuru_camp.jpg" width="150" title="hover text"></p> |
 | **Yokohama Kaidashi Kikou** | <p align="center"><img src="assets/manga/ykk.jpg" width="150" title="hover text"></p> |
+
+
+### SoundTrack
+| Name | Link |
+| --- | --- |
+| **Laid-Back Camp** | [ゆるキャン🔺 - ソロ星空のすすめ BGM](https://youtu.be/nzfk0VrDt7I) |
